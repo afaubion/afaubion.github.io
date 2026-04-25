@@ -24,3 +24,5 @@
 - Applied Algorithms and Structures
   
 - Object-Oriented Software Development
+
+- Big Data
