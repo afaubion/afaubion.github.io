@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![afaubion](https://img.shields.io/badge/afaubion-github-blue?logo=github)](https://github.com/afaubion)
 
 He is currently a Student in the College of Computing and Digital Media (CDM) at DePaul University.
 
