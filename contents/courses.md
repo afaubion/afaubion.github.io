@@ -1,12 +1,26 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Operating Systems
+  
+- Discrete Structures for CS
+  
+- Data Structures I & II
+  
+- Computer Security
+  
+- Intro to User Centered Design
+  
+- GIS for Community Development
+  
+- Information Storage and Management
+  
+- Computational Biology
+  
+- Intro to High Powered Computing
+  
+- Distributed Systems
+  
+- Negotiation Skills
+  
+- Applied Algorithms and Structures
+  
+- Object-Oriented Software Development
