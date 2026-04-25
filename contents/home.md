@@ -2,16 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a Student in the College of Computing and Digital Media (CDM) at DePaul University.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: agfaubion[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Computer Science, DePaul University, 2022—2026.\
+B.S., Computer Science, University of Arkansas, 2015—2022.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Machine Learning and Artificial Intelligence; Data Analytics; Full Stack Software Engineering; 
 
